@@ -1,0 +1,11 @@
+.myBG{
+    height: 100vh;
+    background: url("../assets/bg/bg1.jpg");
+    background-size:cover;
+}
+.intro{
+    height: 30%;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
