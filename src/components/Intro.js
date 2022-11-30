@@ -11,7 +11,7 @@ const Intro = () => {
           <div className="title">NONTON GRATIS</div>
           <div className="title">GAK PAKE KARCIS</div>
           <div className="introButton mt-4 text-center">
-            <Button variant="dark">LIHAT SEMUA LIST</Button>
+            <Button href="#trending" variant="dark">LIHAT SEMUA LIST</Button>
           </div>
           </Col>
         </Row>

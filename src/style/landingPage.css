@@ -16,3 +16,25 @@
     text-shadow: 2px 2px black;
     letter-spacing: 4px;
 }
+.trending{
+    height: auto;
+    background: url("../assets/bg/wbg1.jpg");
+    background-size: cover;
+}
+.superhero{
+    height: auto;
+    background: url("../assets/bg/wbg2.jpg");
+    background-size: cover;
+}
+.moviewrapper{
+
+}
+.movietrend1{
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+.imageMod{
+    height: 500px;
+}
