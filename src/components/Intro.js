@@ -9,7 +9,7 @@ const Intro = () => {
         <Row>
           <Col>
           <div className="title">NONTON GRATIS</div>
-          <div className="title">GAK PAKE KARCIS</div>
+          <div className="title">GAK PAKE BAPER</div>
           <div className="introButton mt-4 text-center">
             <Button href="#trending" variant="dark">LIHAT SEMUA LIST</Button>
           </div>
